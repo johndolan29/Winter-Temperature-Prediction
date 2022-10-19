@@ -1,0 +1,1 @@
+Sitemap: https://johndolan29.github.io/Winter-Temperature-Prediction/sitemap.xml
