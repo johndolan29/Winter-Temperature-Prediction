@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# 
+#
 *.yml
 *.cfg
 # Elastic Beanstalk Files
@@ -138,3 +138,5 @@ dmypy.json
 Scripts/*
 Lib/*
 .env*
+
+/.quarto/
